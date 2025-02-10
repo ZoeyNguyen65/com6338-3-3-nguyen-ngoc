@@ -13,23 +13,23 @@ function runQuiz() {
 
 var questionsArr = [
     {
-    question: 'There are 31 days in February during a leap year',
+    question: 'There are 31 days in February during a leap year.',
     answer: false
     },
     {
-    question: 'Some birds can sleep while flying',
+    question: 'Some birds can sleep while flying.',
     answer: true
     },
     {
-    question: 'The Sahara Desert is the largest desert on Earth',
+    question: 'The Sahara Desert is the largest desert on Earth.',
     answer: true
     },
     {
-    question: 'Saturn is the only planet with rings',
+    question: 'Saturn is the only planet with rings.',
     answer: false
     },
     {
-    question: 'The human brain is made up of 60% water',
+    question: 'The human brain is made up of 60% water.',
     answer: true
     },
     ];
